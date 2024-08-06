@@ -1,0 +1,62 @@
+{
+    "name": "PlayerInputActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "3e1483ad-a83d-4556-9df0-d2e3e11092fd",
+            "actions": [
+                {
+                    "name": "TheOfficerMiniGame",
+                    "type": "Button",
+                    "id": "6fdc9fc9-57fb-40e1-a479-ac09eecffb65",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "47dfec1c-ce70-4f9b-8fc4-d29b994ad32c",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TheOfficerMiniGame",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Screen",
+            "id": "a286eee7-3722-4b5a-b4fd-a6a2c3fb62bb",
+            "actions": [
+                {
+                    "name": "ScreenCapture",
+                    "type": "Button",
+                    "id": "28ae358d-3328-4149-bf0a-add40acda0c6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1a5bae19-4ae1-446a-9cb8-ba14aa85c962",
+                    "path": "<Keyboard>/t",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ScreenCapture",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
