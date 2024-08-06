@@ -1,6 +1,6 @@
 # Officer Den
 
-![Project Screenshot](https://i.imgur.com/JWWMtyb.png)
+![Project Screenshot](https://i.imgur.com/0tjN25C.png)
 
 ## Description
 Den the Officer is a really hard worker to the point where he started wondering what is the point of all of this, den then had a briliant idea that he would start to have some fun in the office. with the help of the Phone guy he will surely have the time of his life in this Job.
