@@ -40,7 +40,7 @@ Describe the controls for your game. You can use a table for better readability.
 - **Handling Office Events:** Handling Office Events to happen frequently without interrupting each other and writing a modular code that can handle any type of new events added was a challenge.
 - **Unity Timeline:** I Laid hand on the Unity Timeline to make some cutscenes.
 - **Office:** Building the Office was a good experience in level design.
-- **More Complex Multi-Scene Structure:** Using Bootsrapper Scenes in order to have more control on which object is initialized before which is a perfect way of handling data and sending data between sceenes is a perfect learning topic.
+- **More Complex Multi-Scene Structure:** Using Bootsrapper Scenes and Scene Initializer Scripts in order to have more control on which object is initialized before which is a perfect way of handling data and sending data between sceenes is a perfect learning topic.
 
 ## Contributing
 
